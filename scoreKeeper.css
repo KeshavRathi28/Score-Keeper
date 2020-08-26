@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#setWinningScore {
+    padding-left: 5px;
+}
+
+h1, h2 {
+    font-size: 2rem;
+}
+
+p {
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+input {
+    width: 5%;
+}
+
+.players {
+    padding: 15px;
+}
+
+#p1 {
+    margin-right: 15px;
+}
+
+#p2 {
+    margin-left: 15px;
+}
+
+.winner {
+    color: green;
+}
